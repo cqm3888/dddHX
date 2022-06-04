@@ -1,5 +1,5 @@
 {
-    "name": "misaHX",
+    "name": "dddHX",
     "description": "Powered By Misaka-blog",
     "keywords": [],
     "env": {
@@ -13,6 +13,6 @@
         }
     },
     "website": "https://owo.misaka.rest",
-    "repository": "https://github.com/Misaka-blog/HX",
+    "repository": "https://github.com/cqm3888/dddHX",
     "stack": "container"
 }
