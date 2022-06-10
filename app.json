@@ -4,15 +4,15 @@
     "keywords": [],
     "env": {
         "TYPE": {
-            "description": "协议，小写的vmess或vless",
+            "description": "协议，小写的*m或*l",
             "value": "vmess"
         },
         "UUID": {
             "description": "UUID，可在 https://www.uuidgenerator.net/ 生成",
-            "value": "1eb6e917-774b-4a84-aff6-b058577c60a5"
+            "value": "31fc2d2c-85ed-495e-bc66-a87f7c9f440b"
         }
     },
     "website": "https://owo.misaka.rest",
-    "repository": "https://github.com/cqm3888/dddHX",
+    "repository": "https://github.com/cqm3888/bbHX",
     "stack": "container"
 }
